@@ -1,0 +1,5 @@
+-I/Users/max/Library/Frameworks/SDL2.framework/Versions/A/Headers
+-I/opt/homebrew/Cellar/sdl2_ttf/2.0.15/include/SDL2
+-F/Users/max/Library/Frameworks
+-frameworkSDL2
+-Wl,-rpath,/Users/max/Library/Frameworks
